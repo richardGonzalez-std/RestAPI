@@ -1,0 +1,8 @@
+/RestAPITutorial
+/db.sqlite3
+/manage.py
+*.csv
+*.yml
+/tasks/__pycache__
+/tasks/migrations
+tasks.csv:Zone.Identifier
